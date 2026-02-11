@@ -1,0 +1,6 @@
+INFO: User login successful
+INFO: File uploaded
+WARNING: Login failed
+WARNING: Login failed
+WARNING: Login failed
+ERROR: Unauthorized access attempt

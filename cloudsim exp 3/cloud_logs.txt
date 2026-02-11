@@ -1,0 +1,12 @@
+Thu Feb 05 08:46:26 IST 2026 : Cloud Log Forensics Simulation Started
+Thu Feb 05 08:46:26 IST 2026 : Datacenter created
+Thu Feb 05 08:46:26 IST 2026 : Broker created with ID: 3
+Thu Feb 05 08:46:26 IST 2026 : VM created with ID: 0
+Thu Feb 05 08:46:26 IST 2026 : Cloudlet created with ID: 0
+Thu Feb 05 08:46:26 IST 2026 : Cloudlet created with ID: 1
+Thu Feb 05 08:46:26 IST 2026 : Cloudlet created with ID: 2
+Thu Feb 05 08:46:26 IST 2026 : Cloudlet created with ID: 3
+Thu Feb 05 08:46:26 IST 2026 : Simulation completed
+Thu Feb 05 08:46:26 IST 2026 : Forensic Analysis Started
+Thu Feb 05 08:46:26 IST 2026 : ALERT: High number of cloudlets detected – Possible overload or attack
+Thu Feb 05 08:46:26 IST 2026 : Log forensics analysis completed
