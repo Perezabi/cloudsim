@@ -10,3 +10,15 @@ Thu Feb 05 08:46:26 IST 2026 : Simulation completed
 Thu Feb 05 08:46:26 IST 2026 : Forensic Analysis Started
 Thu Feb 05 08:46:26 IST 2026 : ALERT: High number of cloudlets detected – Possible overload or attack
 Thu Feb 05 08:46:26 IST 2026 : Log forensics analysis completed
+Wed Feb 11 12:02:13 IST 2026 : Cloud Log Forensics Simulation Started
+Wed Feb 11 12:02:13 IST 2026 : Datacenter created
+Wed Feb 11 12:02:13 IST 2026 : Broker created with ID: 3
+Wed Feb 11 12:02:13 IST 2026 : VM created with ID: 0
+Wed Feb 11 12:02:13 IST 2026 : Cloudlet created with ID: 0
+Wed Feb 11 12:02:13 IST 2026 : Cloudlet created with ID: 1
+Wed Feb 11 12:02:13 IST 2026 : Cloudlet created with ID: 2
+Wed Feb 11 12:02:13 IST 2026 : Cloudlet created with ID: 3
+Wed Feb 11 12:02:13 IST 2026 : Simulation completed
+Wed Feb 11 12:02:13 IST 2026 : Forensic Analysis Started
+Wed Feb 11 12:02:13 IST 2026 : ALERT: High number of cloudlets detected – Possible overload or attack
+Wed Feb 11 12:02:13 IST 2026 : Log forensics analysis completed
